@@ -3,18 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "wedding"
+  title: "Sam and Tom had a wedding"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - route.qmd
+      
 
 format:
   html:
-    theme:
-      - minty
-      - brand
+    theme: minty
+    backgroundcolor: "#ece2d0"
+    linkcolor: "#6d2e46"
     css: styles.css
     toc: true
 

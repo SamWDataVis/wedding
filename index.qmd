@@ -1,5 +1,5 @@
 ---
-title: "wedding"
+title: "Photos"
 ---
 
 This is a Quarto website.
