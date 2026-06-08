@@ -5,20 +5,24 @@ filters:
 lightbox: auto
 ---
 
-![Sam and Tom at the 'altar'](images\QM2_M609_4111_RI_0043.jpg)
+##### Click on an image to see it larger. Then you can also cycle through the gallery using the wee arrows. 
 
-![](images\QM2_M609_4111_RI_0061.jpg)
+::: {layout-ncol="3" layout-gap="1em"}
+![At the 'altar' with Captain Hall](images/QM2_M609_4111_RI_0043.jpg){group="weddingGallery" fig-alt="Wedding photo 1"}
 
-![](images\QM2_M609_4111_RI_0113.jpg)
+![Saying the words](images/QM2_M609_4111_RI_0061.jpg){group="weddingGallery" fig-alt="Wedding photo 2"}
 
-![](images\QM2_M609_4111_RI_0167.jpg)
+![Being relieved that we didn't eff it up](images/QM2_M609_4111_RI_0113.jpg){group="weddingGallery" fig-alt="Wedding photo 3"}
 
-![](images\QM2_M609_4111_RI_0172.jpg)
+![Group photo, with the captain, our witnesses and the lovely bellhops](images/QM2_M609_4111_RI_0167.jpg){group="weddingGallery" fig-alt="Wedding photo 4"}
 
-![](images\QM2_M609_4111_RI_0196.jpg)
+![Cutting the cake, which is a little scary when you have to look at the camera](images/QM2_M609_4111_RI_0172.jpg){group="weddingGallery" fig-alt="Wedding photo 5"}
 
-![](images\QM2_M609_4111_RI_0203.jpg)
+![Posing at the well polished grand piano](images/QM2_M609_4111_RI_0196.jpg){group="weddingGallery" fig-alt="Wedding photo 6"}
 
-![](images\QM2_M609_4111_RI_0279.jpg)
+![Having a look out of the window](images/QM2_M609_4111_RI_0203.jpg){group="weddingGallery" fig-alt="Wedding photo 7"}
 
-![](images\QM2_M609_4111_RI_0415.jpg)
+![It was pretty blustery on deck](images/QM2_M609_4111_RI_0279.jpg){group="weddingGallery" fig-alt="Wedding photo 8"}
+
+![Jobs a good 'un](images/QM2_M609_4111_RI_0415.jpg){group="weddingGallery" fig-alt="Wedding photo 9"}
+:::
