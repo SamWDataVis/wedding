@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 4\n\n[1] 5"
+    "text": "This is a Quarto website."
   },
   {
     "objectID": "about.html",
@@ -16,7 +16,7 @@
   {
     "objectID": "route.html",
     "href": "route.html",
-    "title": "Route",
+    "title": "The route",
     "section": "",
     "text": "A map of the route we took might appear soon."
   },

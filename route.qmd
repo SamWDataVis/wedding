@@ -1,5 +1,5 @@
 ---
-title: "Route"
+title: "The route"
 ---
 
 A map of the route we took might appear soon.
