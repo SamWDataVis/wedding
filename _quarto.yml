@@ -5,10 +5,14 @@ project:
 website:
   title: "Sam and Tom had a wedding"
   navbar:
+    background: "#B0C8F7"
+    foreground: "#6d2e46"
+    search: false
     left:
       - href: index.qmd
         text: Home
       - route.qmd
+      - photos.qmd
       
 
 format:
