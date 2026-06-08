@@ -1,5 +1,24 @@
 ---
-title: "Photos"
+title: Photos
+filters:
+   - lightbox
+lightbox: auto
 ---
 
-I need to pop some photos on here 
+![Sam and Tom at the 'altar'](images\QM2_M609_4111_RI_0043.jpg)
+
+![](images\QM2_M609_4111_RI_0061.jpg)
+
+![](images\QM2_M609_4111_RI_0113.jpg)
+
+![](images\QM2_M609_4111_RI_0167.jpg)
+
+![](images\QM2_M609_4111_RI_0172.jpg)
+
+![](images\QM2_M609_4111_RI_0196.jpg)
+
+![](images\QM2_M609_4111_RI_0203.jpg)
+
+![](images\QM2_M609_4111_RI_0279.jpg)
+
+![](images\QM2_M609_4111_RI_0415.jpg)
