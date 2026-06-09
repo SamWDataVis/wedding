@@ -5,7 +5,7 @@ filters:
 lightbox: auto
 ---
 
-##### Click on an image to see it larger. Then you can also cycle through the gallery using the wee arrows. 
+##### Click on an image to see it larger. Then cycle through the gallery using the wee arrows or by swiping. 
 
 ::: {layout-ncol="3" layout-gap="1em"}
 ![At the 'altar' with Captain Hall](images/QM2_M609_4111_RI_0043.jpg){group="weddingGallery" fig-alt="Wedding photo 1"}

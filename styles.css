@@ -1,1 +1,7 @@
-/* css styles */
+img {
+    border-radius: 5%;
+}/* css styles */
+
+h1, h2, h3, h4, h5 {
+    margin-bottom: 1em;
+}
