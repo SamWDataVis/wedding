@@ -5,3 +5,5 @@ title: "The route"
 A first quick and ugly map of where we got married
 
 ![An ugly map of where we got married](images\WeddingMap1.png){.mapImg}
+
+![An less noisy but equally ugly? map of where we got married. I'm starting to make progress with tidying the GPS tracks now, though!](images/WeddingMap2.png){.mapImg}
