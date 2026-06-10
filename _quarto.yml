@@ -19,7 +19,7 @@ website:
 format:
   html:
     theme: minty
-    backgroundcolor: "#ece2d0"
+    backgroundcolor: "#f7eee6"
     linkcolor: "#6d2e46"
     css: styles.css
     toc: true

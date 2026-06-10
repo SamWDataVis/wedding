@@ -2,4 +2,6 @@
 title: "The route"
 ---
 
-A map of the route we took might appear soon.
+A first quick and ugly map of where we got married
+
+![An ugly map of where we got married](images\WeddingMap1.png){border-radius = 1%}
