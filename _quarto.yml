@@ -10,7 +10,7 @@ website:
     search: false
     left:
       - href: index.qmd
-        text: Home
+        text: Welcome
       - photos.qmd
       - route.qmd
 

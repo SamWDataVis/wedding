@@ -4,4 +4,4 @@ title: "The route"
 
 A first quick and ugly map of where we got married
 
-![An ugly map of where we got married](images\WeddingMap1.png){border-radius = 1%}
+![An ugly map of where we got married](images\WeddingMap1.png){.mapImg}
