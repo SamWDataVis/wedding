@@ -9,3 +9,5 @@ A first quick and ugly map of where we got married
 ![An less noisy but equally ugly? map of where we got married. I'm starting to make progress with tidying the GPS tracks now, though!](images/WeddingMap2.png){.mapImg}
 
 ![Cleaned out borders. Created a colour palette from historic maps. Could go darker in the sea though. Added hillshade multiply layer at low opacity.](images/WeddingMap3.png){.mapImg}
+
+![Darkened deep sea. Lost some labels in the print layout. Classic QGIS.](images/WeddingMap4.png){.mapImg}
