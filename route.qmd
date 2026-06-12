@@ -4,6 +4,8 @@ title: "The route"
 
 A first quick and ugly map of where we got married
 
-![An ugly map of where we got married](images\WeddingMap1.png){.mapImg}
+![An ugly map of where we got married. Did contours on the GEBCO geotiff bathymetry. Can't seem to change the number of classes, but can clean the contours by using 250m instead of 100m (not done in image)](images\WeddingMap1.png){.mapImg}
 
 ![An less noisy but equally ugly? map of where we got married. I'm starting to make progress with tidying the GPS tracks now, though!](images/WeddingMap2.png){.mapImg}
+
+![Cleaned out borders. Created a colour palette from historic maps. Could go darker in the sea though. Added hillshade multiply layer at low opacity.](images/WeddingMap3.png){.mapImg}
