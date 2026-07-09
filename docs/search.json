@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "This is a set of pages about Sam and Tom’s wedding. It happened on the Queen Mary II, approximately halfway between the UK and the USA. There is also a page of photos.\nI am trying to learn to use Quarto, hence this is a bit clunky. Soz."
+    "text": "This is a set of pages about Sam and Tom’s wedding. It happened on the Queen Mary II, approximately halfway between the UK and the USA. There is also a page of photos.\n\nI am trying to learn to use Quarto, hence this is a bit clunky. Soz."
   },
   {
     "objectID": "about.html",
@@ -18,7 +18,7 @@
     "href": "route.html",
     "title": "The route",
     "section": "",
-    "text": "I’d pretend this is a casual effort at mapping where we got married, but it took hours\n\n\n\nA bash at a map of where we got married :)"
+    "text": "I’d pretend this is a casual effort at mapping where we got married, but it took hours.\nI genuinely tracked our GPS tracks the whole time (apart from the train to Southampton), so this is a spot on location.\n\n\n\nA bash at a map of where we got married :)"
   },
   {
     "objectID": "photos.html",

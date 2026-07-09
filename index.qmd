@@ -2,6 +2,8 @@
 title: "Welcome"
 ---
 
-This is a set of pages about Sam and Tom's wedding. It happened on the Queen Mary II, [approximately halfway between the UK and the USA](./route.qmd). There is also a page of [photos](./photos.qmd).
+##### This is a set of pages about Sam and Tom's wedding. It happened on the Queen Mary II, [approximately halfway between the UK and the USA](./route.qmd). There is also a page of [photos](./photos.qmd).
 
-I am trying to learn to use Quarto, hence this is a bit clunky. Soz.
+![](images/QM2_M609_4111_RI_0302.png){fig-alt="Sam and Tom are on the deck after their wedding. They look quite smug. Her dress blows dramatically in the wind. It was clearly very windy."}
+
+I am trying to learn to use [Quarto](https://quarto.org), hence this is a bit clunky. Soz.

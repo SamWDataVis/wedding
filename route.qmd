@@ -2,7 +2,9 @@
 title: "The route"
 ---
 
-I'd pretend this is a casual effort at mapping where we got married, but it took hours
+I'd pretend this is a casual effort at mapping where we got married, but it took hours. 
+
+I genuinely tracked our GPS tracks the whole time (apart from the train to Southampton), so this is a spot on location.
 
 ![A bash at a map of where we got married :) ](images/WeddingMap5.png){.mapImg}
 
