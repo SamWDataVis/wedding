@@ -5,16 +5,27 @@ filters:
 lightbox: auto
 ---
 
-##### Click on an image to see it larger. Then cycle through the gallery using the wee arrows or by swiping. 
+##### Click on an image to see it larger. Then cycle through the gallery using the wee arrows or by swiping.
 
 ::: {layout-ncol="3" layout-gap="1em"}
+![The crew set things up beautifully for us](images/QM2_M609_4111_RI_0004.png){group="weddingGallery" fig-alt="Wedding photo x"}
+
+![Shiny rings on a shiny piano](images/QM2_M609_4111_RI_0017.png){group="weddingGallery" fig-alt="Wedding photo x"}
+
+
 ![At the 'altar' with Captain Hall](images/QM2_M609_4111_RI_0043.jpg){group="weddingGallery" fig-alt="Wedding photo 1"}
 
 ![Saying the words](images/QM2_M609_4111_RI_0061.jpg){group="weddingGallery" fig-alt="Wedding photo 2"}
 
 ![Being relieved that we didn't eff it up](images/QM2_M609_4111_RI_0113.jpg){group="weddingGallery" fig-alt="Wedding photo 3"}
 
+![Sam signing the papers](images/QM2_M609_4111_RI_0134.png){group="weddingGallery" fig-alt="Wedding photo x"}
+
+![Tom's turn to sign the paperwork](images/QM2_M609_4111_RI_0142.png){group="weddingGallery" fig-alt="Wedding photo x"}
+
 ![Group photo, with the captain, our witnesses and the lovely bellhops](images/QM2_M609_4111_RI_0167.jpg){group="weddingGallery" fig-alt="Wedding photo 4"}
+
+![A group photo with our wonderful guests, Mitch, Mary and Robin](images/QM2_M609_4111_RI_0159.png){group="weddingGallery" fig-alt="A photo of a group of folk enjoying our wedding"}
 
 ![Cutting the cake, which is a little scary when you have to look at the camera](images/QM2_M609_4111_RI_0172.jpg){group="weddingGallery" fig-alt="Wedding photo 5"}
 
@@ -22,7 +33,18 @@ lightbox: auto
 
 ![Having a look out of the window](images/QM2_M609_4111_RI_0203.jpg){group="weddingGallery" fig-alt="Wedding photo 7"}
 
+![A cheeky wee head chomp](images/QM2_M609_4111_RI_0200.png){group="weddingGallery" fig-alt="Wedding photo 8"}
+
+![Enjoying a corridor](images/QM2_M609_4111_RI_0223.png){group="weddingGallery" fig-alt="Wedding photo 8"}
+
 ![It was pretty blustery on deck](images/QM2_M609_4111_RI_0279.jpg){group="weddingGallery" fig-alt="Wedding photo 8"}
 
+![Enjoying that wind](images/QM2_M609_4111_RI_0302.png){group="weddingGallery" fig-alt="Wedding photo 10"}
+
+![Sauntering along the deck](images/QM2_M609_4111_RI_0383.png){group="weddingGallery" fig-alt="Wedding photo 10"}
+
+![Paying our respects to the orb on this auspicious occaision](images/QM2_M609_4111_RI_0442.png){group="weddingGallery" fig-alt="Wedding photo 10"}
+
 ![Jobs a good 'un](images/QM2_M609_4111_RI_0415.jpg){group="weddingGallery" fig-alt="Wedding photo 9"}
+
 :::

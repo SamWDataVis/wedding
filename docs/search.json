@@ -18,13 +18,13 @@
     "href": "route.html",
     "title": "The route",
     "section": "",
-    "text": "A first quick and ugly map of where we got married\n\n\n\nAn ugly map of where we got married. Did contours on the GEBCO geotiff bathymetry. Can’t seem to change the number of classes, but can clean the contours by using 250m instead of 100m (not done in image)\n\n\n\n\n\nAn less noisy but equally ugly? map of where we got married. I’m starting to make progress with tidying the GPS tracks now, though!\n\n\n\n\n\nCleaned out borders. Created a colour palette from historic maps. Could go darker in the sea though. Added hillshade multiply layer at low opacity.\n\n\n\n\n\nDarkened deep sea. Lost some labels in the print layout. Classic QGIS."
+    "text": "I’d pretend this is a casual effort at mapping where we got married, but it took hours\n\n\n\nA bash at a map of where we got married :)"
   },
   {
     "objectID": "photos.html",
     "href": "photos.html",
     "title": "Photos",
     "section": "",
-    "text": "Click on an image to see it larger. Then cycle through the gallery using the wee arrows or by swiping.\n\n\n\n\n\n\nAt the ‘altar’ with Captain Hall\n\n\n\n\n\n\n\nSaying the words\n\n\n\n\n\n\n\nBeing relieved that we didn’t eff it up\n\n\n\n\n\n\n\n\n\nGroup photo, with the captain, our witnesses and the lovely bellhops\n\n\n\n\n\n\n\nCutting the cake, which is a little scary when you have to look at the camera\n\n\n\n\n\n\n\nPosing at the well polished grand piano\n\n\n\n\n\n\n\n\n\nHaving a look out of the window\n\n\n\n\n\n\n\nIt was pretty blustery on deck\n\n\n\n\n\n\n\nJobs a good ’un"
+    "text": "Click on an image to see it larger. Then cycle through the gallery using the wee arrows or by swiping.\n\n\n\n\n\n\nThe crew set things up beautifully for us\n\n\n\n\n\n\n\nShiny rings on a shiny piano\n\n\n\n\n\n\n\nAt the ‘altar’ with Captain Hall\n\n\n\n\n\n\n\n\n\nSaying the words\n\n\n\n\n\n\n\nBeing relieved that we didn’t eff it up\n\n\n\n\n\n\n\nSam signing the papers\n\n\n\n\n\n\n\n\n\nTom’s turn to sign the paperwork\n\n\n\n\n\n\n\nGroup photo, with the captain, our witnesses and the lovely bellhops\n\n\n\n\n\n\n\nA group photo with our wonderful guests, Mitch, Mary and Robin\n\n\n\n\n\n\n\n\n\nCutting the cake, which is a little scary when you have to look at the camera\n\n\n\n\n\n\n\nPosing at the well polished grand piano\n\n\n\n\n\n\n\nHaving a look out of the window\n\n\n\n\n\n\n\n\n\nA cheeky wee head chomp\n\n\n\n\n\n\n\nEnjoying a corridor\n\n\n\n\n\n\n\nIt was pretty blustery on deck\n\n\n\n\n\n\n\n\n\nEnjoying that wind\n\n\n\n\n\n\n\nSauntering along the deck\n\n\n\n\n\n\n\nPaying our respects to the orb on this auspicious occaision\n\n\n\n\n\n\n\n\n\nJobs a good ’un"
   }
 ]
